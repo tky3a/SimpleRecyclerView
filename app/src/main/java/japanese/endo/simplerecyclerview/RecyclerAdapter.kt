@@ -9,7 +9,7 @@ class RecyclerAdapter :RecyclerView.Adapter<ViewHolderItem>() {
     // 表示するリストを用意
     private val animalList = listOf(
         "ライオン","クマ", "キリン", "ゾウ", "パンダ", "コアラ", "キリン", "サル", "ヒョウ", "ゴリラ",
-        "トラ", "ウサギ"
+        "トラ", "ウサギ", "カバ", "ガメラ", "カメ"
     )
 
     // 1行分のレイアウトを生成
